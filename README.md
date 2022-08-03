@@ -15,13 +15,13 @@ In this project, we are going to build a driver drowsiness detection system that
 
 4. Image Preprocessing which includes :
 
-  (a) Reshaping the images
+        (a) Reshaping the images
 
-  (b) Reading all the images and converting them into an array of labels and features.
+        (b) Reading all the images and converting them into an array of labels and features.
 
-  (c) Shuffling the images to be picked at random to avoid overfitting.
+        (c) Shuffling the images to be picked at random to avoid overfitting.
 
-  (d) Normalizing the pixels of the images.
+        (d) Normalizing the pixels of the images.
 
 5. Build a model using Convolutional Neural Networks.(CNN)
 
